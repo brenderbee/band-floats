@@ -1,0 +1,15 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.sidebar {
+  float: right;
+  background-color: blue;
+  color: white;
+}
+
+.image {
+  float: left;
+  max-width: 200px;
+
+}

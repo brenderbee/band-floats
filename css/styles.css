@@ -3,12 +3,15 @@ body {
   margin: 0 auto;
 }
 .sidebar {
+  border: 5px solid green;
+  padding: 10px;
   float: right;
   background-color: blue;
   color: white;
 }
 
 .image {
+  padding: 20px;
   float: left;
   max-width: 200px;
 
